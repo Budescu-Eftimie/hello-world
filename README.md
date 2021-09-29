@@ -1,2 +1,3 @@
 # hello-world
-Introduction
+hi,
+just a beginner here:))
